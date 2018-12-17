@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "CLI for amazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Farahat",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^6.2.0",
+    "easy-table": "^1.1.1",
+    "inquire": "^0.4.8",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
