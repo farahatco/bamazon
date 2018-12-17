@@ -2,7 +2,7 @@
 
 bamazon is a very power full CLI App Which has three APP's
 
-1- CustomerAPP: 
+# 1- CustomerAPP: 
   when run the command bamazonCustomer.js users view all products informations(id-product name and prices)
   
 
